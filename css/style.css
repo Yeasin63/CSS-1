@@ -1,0 +1,169 @@
+#Shakib{
+    color: whitesmoke;
+    background-image: url(../images/75.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+    
+}
+#Litton{
+    color: whitesmoke;
+    background-image: url(../images/16.jpg);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#fizz{
+    color: whitesmoke;
+    background-image: url(../images/90.jfif);
+    background-size: cover;
+    margin: auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#batu{
+    color: whitesmoke;
+    background-image: url(../images/15.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#lord{
+    color: whitesmoke;
+    background-image: url(../images/99.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#afif{
+    color: whitesmoke;
+    background-image: url(../images/88.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#Taskin{
+    color: whitesmoke;
+    background-image: url(../images/3.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#Tamim{
+    color: whitesmoke;
+    background-image: url(../images/28.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#mahmud{
+    color: whitesmoke;
+    background-image: url(../images/30.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#somya{
+    color: whitesmoke;
+    background-image: url(../images/59.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#hridoy{
+    color: whitesmoke;
+    background-image: url(../images/77.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#mehedy{
+    color: rgb(0, 0, 0);
+    background-image: url(../images/53.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#shorif{
+    color: whitesmoke;
+    background-image: url(../images/47.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#Mashrafi{
+    color: whitesmoke;
+    background-image: url(../images/2.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+#bcb{
+    color: whitesmoke;
+    background-image: url(../images/BCB.jfif);
+    background-size: cover;
+    margin:20px auto;
+    padding: 20px ;
+    width: 300px;
+    height: 400px;
+    font-family: Arial;
+}
+a{
+    text-decoration: none;
+    border: 2;
+    border-radius: 10px;
+    color: black;
+    background-color: whitesmoke;
+    width: 120px;
+    height: 30px;
+    font-family: arial;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    transition: 0.4s;
+}
+a:hover {
+    color: whitesmoke;
+    background-color: black;
+}
